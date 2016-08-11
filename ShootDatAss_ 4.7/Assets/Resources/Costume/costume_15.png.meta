@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 5faca1d217a19274da12294ad8d9249d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: costume_15_0
+    21300002: costume_15_1
+    21300004: costume_15_2
+    21300006: costume_15_3
+    21300008: costume_15_4
+    21300010: costume_15_5
+    21300012: costume_15_6
+    21300014: costume_15_7
+    21300016: costume_15_8
+    21300018: costume_15_9
+    21300020: costume_15_10
+    21300022: costume_15_11
+    21300024: costume_15_12
+    21300026: costume_15_13
+    21300028: costume_15_14
+    21300030: costume_15_15
+    21300032: costume_15_16
+    21300034: costume_15_17
+    21300036: costume_15_18
+    21300038: costume_15_19
+    21300040: costume_15_20
+    21300042: costume_15_21
+    21300044: costume_15_22
+    21300046: costume_15_23
+    21300048: costume_15_24
+    21300050: costume_15_25
+    21300052: costume_15_26
+    21300054: costume_15_27
+    21300056: costume_15_28
+    21300058: costume_15_29
+    21300060: costume_15_30
+    21300062: costume_15_31
+    21300064: costume_15_32
+    21300066: costume_15_33
+    21300068: costume_15_34
+    21300070: costume_15_35
+    21300072: costume_15_36
+    21300074: costume_15_37
+    21300076: costume_15_38
+    21300078: costume_15_39
+    21300080: costume_15_40
+    21300082: costume_15_41
+    21300084: costume_15_42
+    21300086: costume_15_43
+    21300088: costume_15_44
+    21300090: costume_15_45
+    21300092: costume_15_46
+    21300094: costume_15_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: costume_15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_11
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_12
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_13
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_19
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_24
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_25
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_26
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_27
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_31
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_32
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_33
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_34
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_37
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_39
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_40
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_41
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_45
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_15_47
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

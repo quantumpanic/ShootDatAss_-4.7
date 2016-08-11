@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 1e12242be9265b84d809242e0907115f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: costume_4_0
+    21300002: costume_4_1
+    21300004: costume_4_2
+    21300006: costume_4_3
+    21300008: costume_4_4
+    21300010: costume_4_5
+    21300012: costume_4_6
+    21300014: costume_4_7
+    21300016: costume_4_8
+    21300018: costume_4_9
+    21300020: costume_4_10
+    21300022: costume_4_11
+    21300024: costume_4_12
+    21300026: costume_4_13
+    21300028: costume_4_14
+    21300030: costume_4_15
+    21300032: costume_4_16
+    21300034: costume_4_17
+    21300036: costume_4_18
+    21300038: costume_4_19
+    21300040: costume_4_20
+    21300042: costume_4_21
+    21300044: costume_4_22
+    21300046: costume_4_23
+    21300048: costume_4_24
+    21300050: costume_4_25
+    21300052: costume_4_26
+    21300054: costume_4_27
+    21300056: costume_4_28
+    21300058: costume_4_29
+    21300060: costume_4_30
+    21300062: costume_4_31
+    21300064: costume_4_32
+    21300066: costume_4_33
+    21300068: costume_4_34
+    21300070: costume_4_35
+    21300072: costume_4_36
+    21300074: costume_4_37
+    21300076: costume_4_38
+    21300078: costume_4_39
+    21300080: costume_4_40
+    21300082: costume_4_41
+    21300084: costume_4_42
+    21300086: costume_4_43
+    21300088: costume_4_44
+    21300090: costume_4_45
+    21300092: costume_4_46
+    21300094: costume_4_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: costume_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_11
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_12
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_13
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_19
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_24
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_25
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_26
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_27
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_31
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_32
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_33
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_34
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_37
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_39
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_40
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_41
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_45
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_4_47
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

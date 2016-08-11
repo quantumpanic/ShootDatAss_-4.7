@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 36756509058a5324aba53b14eb937fae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_0
+    21300002: ui_1
+    21300004: ui_2
+    21300006: ui_3
+    21300008: ui_4
+    21300010: ui_5
+    21300012: ui_6
+    21300014: ui_7
+    21300016: ui_8
+    21300018: ui_9
+    21300020: ui_10
+    21300022: ui_11
+    21300024: ui_12
+    21300026: ui_13
+    21300028: ui_14
+    21300030: ui_15
+    21300032: ui_16
+    21300034: ui_17
+    21300036: ui_18
+    21300038: ui_19
+    21300040: ui_20
+    21300042: ui_21
+    21300044: ui_22
+    21300046: ui_23
+    21300048: ui_24
+    21300050: ui_25
+    21300052: ui_26
+    21300054: ui_27
+    21300056: ui_28
+    21300058: ui_29
+    21300060: ui_30
+    21300062: ui_31
+    21300064: ui_32
+    21300066: ui_33
+    21300068: ui_34
+    21300070: ui_35
+    21300072: ui_36
+    21300074: ui_37
+    21300076: ui_38
+    21300078: ui_39
+    21300080: ui_40
+    21300082: ui_41
+    21300084: ui_42
+    21300086: ui_43
+    21300088: ui_44
+    21300090: ui_45
+    21300092: ui
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 415
+        height: 458
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 821
+        width: 380
+        height: 201
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 950
+        width: 204
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 906
+        width: 11
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 922
+        width: 164
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 14, y: 0, z: 21, w: 0}
+    - name: ui_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 922
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 894
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 22, w: 0}
+    - name: ui_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 837
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 651
+        width: 380
+        height: 166
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 720
+        width: 139
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 761
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_11
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 547
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 685
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 625
+        width: 311
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 593
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_15
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 609
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 597
+        width: 311
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_17
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 533
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 500
+        width: 251
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 391
+        width: 138
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 496
+        width: 301
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_21
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 524
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 373
+        width: 138
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 502
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 251
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 345
+        width: 265
+        height: 149
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_26
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 461
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 455
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_28
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 433
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_29
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 466
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 372
+        width: 251
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 262
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 341
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+    - name: ui_34
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 365
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 275
+        height: 299
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_36
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 338
+        width: 102
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_37
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 331
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 193
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 124
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 90
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 28
+        width: 131
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 29
+        width: 102
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

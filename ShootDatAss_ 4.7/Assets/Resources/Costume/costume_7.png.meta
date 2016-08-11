@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 3d4479eef11ac0f4eb8612b59fb86fef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: male main char_sprite_police_0
+    21300002: male main char_sprite_police_1
+    21300004: male main char_sprite_police_2
+    21300006: male main char_sprite_police_3
+    21300008: male main char_sprite_police_4
+    21300010: male main char_sprite_police_5
+    21300012: male main char_sprite_police_6
+    21300014: male main char_sprite_police_7
+    21300016: male main char_sprite_police_8
+    21300018: male main char_sprite_police_9
+    21300020: male main char_sprite_police_10
+    21300022: male main char_sprite_police_11
+    21300024: male main char_sprite_police_12
+    21300026: male main char_sprite_police_13
+    21300028: male main char_sprite_police_14
+    21300030: male main char_sprite_police_15
+    21300032: male main char_sprite_police_16
+    21300034: male main char_sprite_police_17
+    21300036: male main char_sprite_police_18
+    21300038: male main char_sprite_police_19
+    21300040: male main char_sprite_police_20
+    21300042: male main char_sprite_police_21
+    21300044: male main char_sprite_police_22
+    21300046: male main char_sprite_police_23
+    21300048: male main char_sprite_police_24
+    21300050: male main char_sprite_police_25
+    21300052: male main char_sprite_police_26
+    21300054: male main char_sprite_police_27
+    21300056: male main char_sprite_police_28
+    21300058: male main char_sprite_police_29
+    21300060: male main char_sprite_police_30
+    21300062: male main char_sprite_police_31
+    21300064: male main char_sprite_police_32
+    21300066: male main char_sprite_police_33
+    21300068: male main char_sprite_police_34
+    21300070: male main char_sprite_police_35
+    21300072: male main char_sprite_police_36
+    21300074: male main char_sprite_police_37
+    21300076: male main char_sprite_police_38
+    21300078: male main char_sprite_police_39
+    21300080: male main char_sprite_police_40
+    21300082: male main char_sprite_police_41
+    21300084: male main char_sprite_police_42
+    21300086: male main char_sprite_police_43
+    21300088: male main char_sprite_police_44
+    21300090: male main char_sprite_police_45
+    21300092: male main char_sprite_police_46
+    21300094: male main char_sprite_police_47
+    21300096: costume_7_0
+    21300098: costume_7_1
+    21300100: costume_7_2
+    21300102: costume_7_3
+    21300104: costume_7_4
+    21300106: costume_7_5
+    21300108: costume_7_6
+    21300110: costume_7_7
+    21300112: costume_7_8
+    21300114: costume_7_9
+    21300116: costume_7_10
+    21300118: costume_7_11
+    21300120: costume_7_12
+    21300122: costume_7_13
+    21300124: costume_7_14
+    21300126: costume_7_15
+    21300128: costume_7_16
+    21300130: costume_7_17
+    21300132: costume_7_18
+    21300134: costume_7_19
+    21300136: costume_7_20
+    21300138: costume_7_21
+    21300140: costume_7_22
+    21300142: costume_7_23
+    21300144: costume_7_24
+    21300146: costume_7_25
+    21300148: costume_7_26
+    21300150: costume_7_27
+    21300152: costume_7_28
+    21300154: costume_7_29
+    21300156: costume_7_30
+    21300158: costume_7_31
+    21300160: costume_7_32
+    21300162: costume_7_33
+    21300164: costume_7_34
+    21300166: costume_7_35
+    21300168: costume_7_36
+    21300170: costume_7_37
+    21300172: costume_7_38
+    21300174: costume_7_39
+    21300176: costume_7_40
+    21300178: costume_7_41
+    21300180: costume_7_42
+    21300182: costume_7_43
+    21300184: costume_7_44
+    21300186: costume_7_45
+    21300188: costume_7_46
+    21300190: costume_7_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: costume_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2590
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_11
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_12
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_13
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2160
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_19
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1730
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_24
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_25
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_26
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_27
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1300
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_31
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_32
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_33
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_34
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 870
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_37
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_39
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_40
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_41
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 440
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_45
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: costume_7_47
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 10
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

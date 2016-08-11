@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: In Game Object.png (512 x 1024)
+# $TexturePacker:SmartUpdate:74094bbe54770143cc58cbd83fcea965:b2cd50c6521c17e512f1f64f055dde6e:7bc5a7a72e33e6c35eaabbc4b3081dd8$
+#
+
+bosspad;2;635;134;86;0.5;0.5
+box1;2;561;72;72;0.5;0.5
+box2;418;565;71;72;0.5;0.5
+box3;192;520;71;72;0.5;0.5
+box4;265;520;71;72;0.5;0.5
+box5;338;511;71;72;0.5;0.5
+broadcast_kill_icon;486;815;20;18;0.5;0.5
+broadcast_small;2;878;191;33;0.5;0.5
+control_move;352;639;154;153;0.5;0.4673202614379085
+control_moveTAP;256;735;94;95;0.5;0.5
+control_shoot;2;723;155;153;0.5064516129032258;0.4673202614379085
+control_shootTAP;403;835;95;94;0.5;0.5
+healPad_0;411;510;71;53;0.5;0.5
+healPad_1;138;605;72;73;0.5;0.5
+itemSlot;252;594;90;139;0.5111111111111111;0.4928057553956835
+itemSlot_active;159;680;91;138;0.510989010989011;0.5
+panel_inGameStats;2;977;408;45;0.5;0.5
+panel_scoreInGame;2;913;291;62;0.5;0.5
+panel_scoreInGameOFF;76;571;40;62;0.5;0.5
+playerpad1;2;507;72;52;0.5;0.5
+playerpad2;118;550;72;53;0.5;0.5
+playerpad3;76;496;71;52;0.5;0.5
+playerpad4;2;453;71;52;0.5;0.5
+respawnPad;344;585;72;52;0.5;0.5
+stat_01;393;956;8;19;0.5;0.5
+stat_02;393;935;8;19;0.5;0.5
+stat_03;393;914;8;19;0.5;0.5
+stat_attPower;389;794;95;39;0.5;0.5
+stat_attPowerMAX;195;861;95;50;0.5;0.5
+stat_attRange;403;931;96;39;0.5;0.5
+stat_attRangeMAX;412;972;96;50;0.5;0.5
+stat_attSpeed;295;884;96;39;0.5;0.5
+stat_attSpeedMAX;295;925;96;50;0.5;0.5
+stat_movespeed;159;820;95;39;0.5;0.5
+stat_movespeedMAX;292;832;95;50;0.5;0.5

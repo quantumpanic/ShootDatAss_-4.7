@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B85BF527-99A5-5A9E-4571-2CD9C8A5BD7A}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+	<LangVersion>default</LangVersion>
+</PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+	<LangVersion>default</LangVersion>
+</PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+	<LangVersion>default</LangVersion>
+</PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Game\Scripts\AnimationSynchronizer.cs" />
+     <Compile Include="Assets\Game\Scripts\DeleteAfterSeconds.cs" />
+     <Compile Include="Assets\Game\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Game\Scripts\EnemyInfo.cs" />
+     <Compile Include="Assets\Game\Scripts\GameHUD.cs" />
+     <Compile Include="Assets\Game\Scripts\GameLayers.cs" />
+     <Compile Include="Assets\Game\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Game\Scripts\NetworkManager.cs" />
+     <Compile Include="Assets\Game\Scripts\NetworkTransform.cs" />
+     <Compile Include="Assets\Game\Scripts\NetworkTransformInterpolation.cs" />
+     <Compile Include="Assets\Game\Scripts\NetworkTransformReceiver.cs" />
+     <Compile Include="Assets\Game\Scripts\NetworkTransformSender.cs" />
+     <Compile Include="Assets\Game\Scripts\OptionsManager.cs" />
+     <Compile Include="Assets\Game\Scripts\PlayerManager.cs" />
+     <Compile Include="Assets\Game\Scripts\PlayerScore.cs" />
+     <Compile Include="Assets\Game\Scripts\ProgressBar.cs" />
+     <Compile Include="Assets\Game\Scripts\ShotController.cs" />
+     <Compile Include="Assets\Game\Scripts\TimeManager.cs" />
+     <Compile Include="Assets\Game\Scripts\WalkController.cs" />
+     <Compile Include="Assets\ListenerObject.cs" />
+     <Compile Include="Assets\Lobby\Scripts\ChatWindow.cs" />
+     <Compile Include="Assets\Lobby\Scripts\LobbyGUI.cs" />
+     <Compile Include="Assets\Lobby\Scripts\LoginGUI.cs" />
+     <Compile Include="Assets\Lobby\Scripts\SmartFoxConnection.cs" />
+     <Compile Include="Assets\Scripts\Character\AIController.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterAnimationController.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterController.cs" />
+     <Compile Include="Assets\Scripts\Character\ControllerDisplay.cs" />
+     <Compile Include="Assets\Scripts\Character\MatchManager.cs" />
+     <Compile Include="Assets\Scripts\Character\RenameCrate.cs" />
+     <Compile Include="Assets\Scripts\Character\TouchController.cs" />
+     <Compile Include="Assets\Scripts\Character\TouchUseItem.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\Buff.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\Buff\NailDebuff.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\Buff\PaintDebuff.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\Buff\ShockDebuff.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\Displacement.cs" />
+     <Compile Include="Assets\Scripts\Classes\Effect\ItemEffect.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\CanvasObject.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\AreaEffect001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Bullet001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Grenade001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Nailgun001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Paintball001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Pulsegun001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\Rocket001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Projectile\ShotShell001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Structure.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Structure\Border001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Structure\Wall001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\Baddy001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\BlackWarrior001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\BlueWarrior001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\Drone001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\Player001.cs" />
+     <Compile Include="Assets\Scripts\Classes\GameEntity\Unit\RedWarrior001.cs" />
+     <Compile Include="Assets\Scripts\Item\ChargeMechanic.cs" />
+     <Compile Include="Assets\Scripts\Item\GranadeThrow.cs" />
+     <Compile Include="Assets\Scripts\Item\MegaJumpPath.cs" />
+     <Compile Include="Assets\Scripts\Object\Adrenaline.cs" />
+     <Compile Include="Assets\Scripts\Object\AutoDestroy.cs" />
+     <Compile Include="Assets\Scripts\Object\Brust.cs" />
+     <Compile Include="Assets\Scripts\Object\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Object\Crate.cs" />
+     <Compile Include="Assets\Scripts\Object\DamageModifier.cs" />
+     <Compile Include="Assets\Scripts\Object\Granade.cs" />
+     <Compile Include="Assets\Scripts\Object\Item.cs" />
+     <Compile Include="Assets\Scripts\Object\Knife.cs" />
+     <Compile Include="Assets\Scripts\Object\MegaJump - Copy.cs" />
+     <Compile Include="Assets\Scripts\Object\MegaJump.cs" />
+     <Compile Include="Assets\Scripts\Object\RocketLauncher.cs" />
+     <Compile Include="Assets\Scripts\Object\Sniper.cs" />
+     <Compile Include="Assets\Scripts\Object\Spring.cs" />
+     <Compile Include="Assets\Scripts\Object\StatusModifier.cs" />
+     <Compile Include="Assets\Scripts\Object\TimeBomb.cs" />
+     <Compile Include="Assets\Scripts\PlayerVariable.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\ChooseMap.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\CreateGame.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\DisplayManager.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\Loading.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\Login.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\Menu.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\Practice.cs" />
+     <Compile Include="Assets\Scripts\SceneManager\QuickPlay.cs" />
+     <Compile Include="Assets\Scripts\System\Achievement.cs" />
+     <Compile Include="Assets\Scripts\System\GameData.cs" />
+     <Compile Include="Assets\Scripts\System\Multiplayer.cs" />
+     <Compile Include="Assets\Scripts\System\Network.cs" />
+     <Compile Include="Assets\Scripts\System\ObjectLibrary.cs" />
+     <Compile Include="Assets\Scripts\System\PlayerData.cs" />
+     <Compile Include="Assets\Scripts\System\SoundManager.cs" />
+     <Compile Include="Assets\Scripts\Test1.cs" />
+     <Compile Include="Assets\Scripts\UI\StatusBar.cs" />
+     <None Include="Assets\RAIN\releasenotes.txt" />
+     <None Include="Assets\AI\Resources\BehaviorTrees\AI.xml" />
+     <None Include="Assets\RAIN\Editor\ScriptTemplates\BehaviorTreeTemplate.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="SmartFox2X">
+ <HintPath>D:/ShootDatAss_ 4.7/ShootDatAss_ 4.7/ShootDatAss_ 4.7/Assets/Plugin/SmartFox2X.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINIndie">
+ <HintPath>D:/ShootDatAss_ 4.7/ShootDatAss_ 4.7/ShootDatAss_ 4.7/Assets/RAIN/RAINIndie.dll</HintPath>
+ </Reference>
+ <Reference Include="Recast">
+ <HintPath>D:/ShootDatAss_ 4.7/ShootDatAss_ 4.7/ShootDatAss_ 4.7/Assets/RAIN/Recast.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

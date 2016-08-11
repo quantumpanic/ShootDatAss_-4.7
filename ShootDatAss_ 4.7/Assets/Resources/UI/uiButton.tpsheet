@@ -1,0 +1,40 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: button.png (512 x 512)
+# $TexturePacker:SmartUpdate:19d1962c53e75701e5cda3f74f3242d5:af3e150c8c1c5fc2fae910142bc06efd:733986aaa87471df0118b762db06e967$
+#
+
+btn_X;210;248;32;33;0.5;0.5
+btn_achievements;236;33;74;67;0.5;0.5
+btn_bgmOFF;85;171;78;74;0.5;0.5
+btn_bgmON;2;140;78;74;0.5;0.5
+btn_confirm;305;390;138;46;0.5;0.5
+btn_createGame;2;347;251;62;0.5;0.5
+btn_fbLogin;244;238;102;33;0.5;0.5
+btn_friends;165;178;75;67;0.5;0.5
+btn_gankers;292;354;131;34;0.5;0.5
+btn_googleLogin;348;238;102;33;0.5;0.5
+btn_help;445;397;44;39;0.5;0.5
+btn_home;312;41;75;66;0.5;0.5
+btn_invite;484;375;20;20;0.5;0.5
+btn_leaderboard;82;26;75;67;0.5;0.5
+btn_login;2;247;102;34;0.5;0.5
+btn_logout;106;247;102;34;0.5;0.5
+btn_moreCash;445;337;37;58;0.5;0.5
+btn_pause;2;4;67;58;0.5;0.5
+btn_play;2;411;301;99;0.5;0.5101010101010102
+btn_playerAvatar;255;374;35;35;0.5;0.5
+btn_playerInfo;255;337;35;35;0.5;0.5
+btn_practice;2;283;251;62;0.5;0.5
+btn_profile;239;109;74;67;0.5;0.5
+btn_quickPlay;255;273;251;62;0.5;0.5
+btn_random;2;216;81;29;0.5;0.5
+btn_ready;305;438;204;72;0.5;0.5
+btn_settings;159;26;75;67;0.5;0.5
+btn_sfxOFF;2;64;78;74;0.5;0.5
+btn_sfxON;82;95;78;74;0.5;0.5
+btn_store;162;102;75;67;0.5;0.5

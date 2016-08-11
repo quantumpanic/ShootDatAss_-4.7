@@ -1,0 +1,27 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce 210  (ID=0xa65)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\SmartFox2X.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\SmartFox2X.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\RAINIndie.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\RAINIndie.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\Recast.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\Recast.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_withsound\sda_withsound_Data\Managed\System.dll (this message is harmless)
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest

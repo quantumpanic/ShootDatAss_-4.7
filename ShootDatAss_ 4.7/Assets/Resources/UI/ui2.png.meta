@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 74b4c7cad751e424c899ddefa73bfe03
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui2_0
+    21300002: ui2_1
+    21300004: ui2_2
+    21300006: ui2_3
+    21300008: ui2_4
+    21300010: ui2_5
+    21300012: ui2_6
+    21300014: ui2_7
+    21300016: ui2_8
+    21300018: ui2_9
+    21300020: ui2_10
+    21300022: ui2_11
+    21300024: ui2_12
+    21300026: ui2_13
+    21300028: ui2_14
+    21300030: ui2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ui2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 529
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 739
+        width: 450
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_2
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1000
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_3
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 973
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 348
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_5
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 619
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 404
+        width: 275
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 31, y: 25, z: 7, w: 26}
+    - name: ui2_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 656
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 578
+        width: 199
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 478
+        width: 263
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 545
+        width: 166
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 426
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 479
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 431
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 263
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ui2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 265
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

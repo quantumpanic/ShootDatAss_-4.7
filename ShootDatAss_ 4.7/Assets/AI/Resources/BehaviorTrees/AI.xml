@@ -1,0 +1,1 @@
+<behaviortree name="AI" precondition="" repeatuntil="" debug="False"><sequencer name="root" precondition="" repeatuntil="" debug="False"><move name="move 657" precondition="" repeatuntil="" debug="False" movetarget="(0.0, 0.0, 0.0)" movespeed="-1" animation="" animationlayer="0" animationwrapmode="default" animationbasespeed="1" /></sequencer></behaviortree>

@@ -1,0 +1,1654 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA GeForce 210  (ID=0xa65)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\SmartFox2X.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\SmartFox2X.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\RAINIndie.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\RAINIndie.dll into Unity Child Domain
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\Recast.dll (this message is harmless)
+Loading D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\Recast.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ShootDatAss_ 4.7\ShootDatAss_ 4.7\ShootDatAss_ 4.7\desktopBuild\sda_new\sda_new_Data\Managed\System.dll (this message is harmless)
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'parleybead' died at pos (8.4, 0.4, 5.4) with velocity (-5.9, 0.0, -8.0) after travelling 364.6477 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.0, 0.4, 5.7) with velocity (-7.1, 0.0, -7.0) after travelling 367.2317 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-7.8, 0.0, -6.2) after travelling 347.8047 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.8, 0.4, 6.3) with velocity (-8.2, 0.0, -5.7) after travelling 347.653 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #22
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.6, 0.4, 6.2) with velocity (-8.2, 0.0, -5.7) after travelling 367.6829 distance over 0.34 secs and colliding with '22'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.8, 0.4, 6.3) with velocity (-8.2, 0.0, -5.7) after travelling 347.6913 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.8, 0.4, 6.3) with velocity (-8.2, 0.0, -5.8) after travelling 347.7242 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-8.1, 0.0, -5.9) after travelling 347.7759 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-8.0, 0.0, -6.1) after travelling 347.8012 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-7.9, 0.0, -6.1) after travelling 347.8041 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-7.9, 0.0, -6.1) after travelling 347.8055 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.9, 0.4, 6.2) with velocity (-7.9, 0.0, -6.1) after travelling 347.8055 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.3, 0.4, 5.6) with velocity (-6.7, 0.0, -7.4) after travelling 355.9262 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.4, 0.4, 5.0) with velocity (-7.4, 0.0, -6.7) after travelling 351.6885 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #26
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.3, 0.4, 4.7) with velocity (-7.1, 0.0, -7.0) after travelling 269.5078 distance over 0.26 secs and colliding with '26'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #27
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.7, 0.4, 3.9) with velocity (-6.8, 0.0, -7.4) after travelling 256.3788 distance over 0.26 secs and colliding with '27'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #24
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.5, 0.4, 3.7) with velocity (-6.6, 0.0, -7.5) after travelling 190.843 distance over 0.2 secs and colliding with '24'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.6, 0.4, 3.6) with velocity (-9.5, 0.0, -3.1) after travelling 291.3092 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #25
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.6, 0.4, 3.8) with velocity (7.4, 0.0, -6.8) after travelling 66.16293 distance over 0.12 secs and colliding with '25'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.4, 0.4, 1.2) with velocity (1.7, 0.0, -9.8) after travelling 236.7532 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (6.6, 0.4, 0.6) with velocity (2.7, 0.0, -9.6) after travelling 211.1291 distance over 0.36 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #49
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (6.6, 0.4, 0.4) with velocity (2.7, 0.0, -9.6) after travelling 222.0428 distance over 0.36 secs and colliding with '49'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #44
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.4, 0.4, 2.1) with velocity (-4.0, 0.0, -9.2) after travelling 124.4641 distance over 0.16 secs and colliding with '44'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #43
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (4.7, 0.4, 1.7) with velocity (-8.5, 0.0, -5.3) after travelling 159.8114 distance over 0.2 secs and colliding with '43'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.6, 0.4, 1.7) with velocity (-9.8, 0.0, -2.2) after travelling 234.5339 distance over 0.34 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #39
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.4, 0.4, 1.6) with velocity (-9.8, 0.0, -2.2) after travelling 247.4977 distance over 0.34 secs and colliding with '39'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.3, 0.4, -2.1) with velocity (1.3, 0.0, -9.9) after travelling 238.6264 distance over 0.4600001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #50
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (6.8, 0.4, -0.8) with velocity (7.5, 0.0, -6.7) after travelling 134.5475 distance over 0.36 secs and colliding with '50'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #48
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.7, 0.4, 0.1) with velocity (9.9, 0.0, -1.5) after travelling 81.24577 distance over 0.36 secs and colliding with '48'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'parleybead' died at pos (7.3, 0.4, 0.2) with velocity (10.0, 0.0, -0.4) after travelling 96.37094 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #51
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.7, 0.4, -0.6) with velocity (9.7, 0.0, -2.3) after travelling 87.07614 distance over 0.38 secs and colliding with '51'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.1, 0.4, -1.6) with velocity (9.8, 0.0, -2.1) after travelling 82.83595 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #89
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.5, 0.4, -3.9) with velocity (8.4, 0.0, -5.5) after travelling 81.11906 distance over 0.42 secs and colliding with '89'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #87
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.2, 0.4, -3.7) with velocity (7.7, 0.0, -6.3) after travelling 47.80659 distance over 0.2 secs and colliding with '87'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #101
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.5, 0.4, -5.3) with velocity (6.8, 0.0, -7.3) after travelling 78.28843 distance over 0.36 secs and colliding with '101'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #104
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (3.8, 0.4, -4.6) with velocity (6.7, 0.0, -7.4) after travelling 28.64138 distance over 0.12 secs and colliding with '104'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #103
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (4.3, 0.4, -5.3) with velocity (6.2, 0.0, -7.9) after travelling 23.15131 distance over 0.12 secs and colliding with '103'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #102
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (4.6, 0.4, -5.9) with velocity (8.9, 0.0, -4.6) after travelling 29.74434 distance over 0.12 secs and colliding with '102'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.8, 0.4, -6.1) with velocity (8.8, 0.0, -4.8) after travelling 31.12721 distance over 0.16 secs and colliding with '100'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #99
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.8, 0.4, -7.2) with velocity (3.9, 0.0, -9.2) after travelling 38.41391 distance over 0.22 secs and colliding with '99'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #98
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (5.5, 0.4, -7.9) with velocity (0.4, 0.0, -10.0) after travelling 67.09589 distance over 0.22 secs and colliding with '98'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (6.1, 0.4, -8.6) with velocity (3.3, 0.0, -9.4) after travelling 31.27118 distance over 0.2 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #95
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.3, 0.4, -7.3) with velocity (9.9, 0.0, -1.2) after travelling 132.5717 distance over 0.38 secs and colliding with '95'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.7, 0.4, -7.1) with velocity (10.0, 0.0, 1.0) after travelling 180.7274 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #94
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.1, 0.4, -7.4) with velocity (10.0, 0.0, 0.5) after travelling 143.7202 distance over 0.34 secs and colliding with '94'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #96
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.8, 0.4, -7.7) with velocity (9.6, 0.0, -2.8) after travelling 60.81675 distance over 0.24 secs and colliding with '96'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #97
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.0, 0.4, -7.8) with velocity (9.4, 0.0, -3.5) after travelling 37.91007 distance over 0.18 secs and colliding with '97'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Hambali3 damaged Renata1 for 3 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (7.8, 0.4, -7.3) with velocity (-9.9, 0.0, 1.2) after travelling 272.6381 distance over 0.26 secs and colliding with 'Renata1'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.2, 0.4, -7.8) with velocity (10.0, 0.0, -0.7) after travelling 78.1942 distance over 0.22 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Hambali3 damaged Renata1 for 3 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (8.3, 0.4, -7.6) with velocity (-10.0, 0.0, 0.1) after travelling 209.3086 distance over 0.2 secs and colliding with 'Renata1'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.3, 0.4, -8.0) with velocity (9.9, 0.0, -1.6) after travelling 75.68257 distance over 0.24 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player Hambali3 damaged Renata1 for 3 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (7.1, 0.4, -7.6) with velocity (-10.0, 0.0, 0.3) after travelling 326.6784 distance over 0.32 secs and colliding with 'Renata1'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.4, 0.4, -8.0) with velocity (9.9, 0.0, -1.3) after travelling 113.2465 distance over 0.34 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Hambali3 damaged Renata1 for 3 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.1, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 418.9968 distance over 0.42 secs and colliding with 'Renata1'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.3, 0.4, -7.6) with velocity (9.9, 0.0, -1.6) after travelling 120.2566 distance over 0.4 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.9, 0.4, -7.5) with velocity (9.5, 0.0, -3.0) after travelling 91.39749 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.7, 0.4, -7.3) with velocity (9.0, 0.0, -4.4) after travelling 54.84881 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.7, 0.4, -7.1) with velocity (9.1, 0.0, -4.2) after travelling 57.82741 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #92
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.5, 0.4, -6.1) with velocity (9.1, 0.0, -4.1) after travelling 27.23015 distance over 0.18 secs and colliding with '92'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.0, 0.4, -7.2) with velocity (9.0, 0.0, -4.4) after travelling 50.53276 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.2, 0.4, -7.3) with velocity (9.0, 0.0, -4.4) after travelling 53.55654 distance over 0.4400001 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.3, 0.4, -7.3) with velocity (8.6, 0.0, -5.1) after travelling 32.89227 distance over 0.4 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.3, 0.4, -7.3) with velocity (8.7, 0.0, -5.0) after travelling 33.88406 distance over 0.4 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali3 for 4 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (10.3, 0.4, -7.3) with velocity (8.4, 0.0, -5.4) after travelling 25.84221 distance over 0.38 secs and colliding with 'Hambali3'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (8.6, 0.4, -8.5) with velocity (6.3, 0.0, -7.7) after travelling 37.79621 distance over 0.42 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'grenade' died at pos (7.8, 0.4, -3.8) with velocity (13.7, 0.0, 6.2) after travelling 144.0002 distance over 0.24 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (9.3, 0.4, -5.5) with velocity (10.0, 0.0, -0.7) after travelling 118.3124 distance over 0.4400001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (7.0, 0.4, 0.1) with velocity (8.1, 0.0, 5.8) after travelling 150.8103 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (6.2, 0.4, 1.6) with velocity (6.5, 0.0, 7.6) after travelling 146.7445 distance over 0.4 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (3.0, 0.4, 3.3) with velocity (-1.3, 0.0, 9.9) after travelling 185.8781 distance over 0.4 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #42
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.8, 0.4, 1.2) with velocity (-0.7, 0.0, 10.0) after travelling 50.43639 distance over 0.09999999 secs and colliding with '42'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #40
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.9, 0.4, 2.9) with velocity (0.1, 0.0, 10.0) after travelling 77.57692 distance over 0.18 secs and colliding with '40'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #41
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.6, 0.4, 3.7) with velocity (2.5, 0.0, 9.7) after travelling 40.24699 distance over 0.12 secs and colliding with '41'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (3.1, 0.4, 6.5) with velocity (0.6, 0.0, 10.0) after travelling 113.5845 distance over 0.4 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #56
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.1, 0.4, 0.2) with velocity (-4.4, 0.0, -9.0) after travelling 109.8395 distance over 0.18 secs and colliding with '56'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #55
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.8, 0.4, -0.4) with velocity (-4.8, 0.0, -8.7) after travelling 92.61164 distance over 0.16 secs and colliding with '55'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #84
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.7, 0.4, -3.0) with velocity (-1.1, 0.0, -9.9) after travelling 190.4475 distance over 0.4 secs and colliding with '84'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #85
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.7, 0.4, -3.8) with velocity (-0.8, 0.0, -10.0) after travelling 173.8707 distance over 0.4 secs and colliding with '85'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.2, 0.4, -5.4) with velocity (-0.2, 0.0, -10.0) after travelling 202.7169 distance over 0.56 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #86
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.7, 0.4, -4.6) with velocity (1.1, 0.0, -9.9) after travelling 130.8454 distance over 0.36 secs and colliding with '86'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.4, 0.4, -6.9) with velocity (0.9, 0.0, -10.0) after travelling 162.9062 distance over 0.56 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #83
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.5, 0.4, -3.1) with velocity (-5.3, 0.0, -8.5) after travelling 42.6636 distance over 0.09999999 secs and colliding with '83'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.5, 0.4, -7.6) with velocity (0.9, 0.0, -10.0) after travelling 145.6989 distance over 0.56 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #82
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.3, 0.4, -2.1) with velocity (-9.7, 0.0, 2.3) after travelling 34.05675 distance over 0.06 secs and colliding with '82'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #81
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-0.3, 0.4, -2.8) with velocity (-6.7, 0.0, -7.5) after travelling 79.93861 distance over 0.18 secs and colliding with '81'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #80
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-0.1, 0.4, -3.0) with velocity (-0.5, 0.0, -10.0) after travelling 63.19122 distance over 0.16 secs and colliding with '80'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #78
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-2.5, 0.4, -3.3) with velocity (-9.2, 0.0, -4.0) after travelling 105.2732 distance over 0.26 secs and colliding with '78'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #58
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.6, 0.4, -0.1) with velocity (-4.5, 0.0, 8.9) after travelling 105.6264 distance over 0.2 secs and colliding with '58'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #57
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.6, 0.4, 0.7) with velocity (-5.2, 0.0, 8.5) after travelling 86.71534 distance over 0.18 secs and colliding with '57'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.1, 0.4, 4.5) with velocity (0.4, 0.0, 10.0) after travelling 194.5375 distance over 0.5000001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #38
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-0.6, 0.4, 2.2) with velocity (5.7, 0.0, 8.2) after travelling 142.2911 distance over 0.28 secs and colliding with '38'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #37
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.3, 0.4, 2.6) with velocity (7.7, 0.0, 6.3) after travelling 137.9187 distance over 0.28 secs and colliding with '37'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #35
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-0.1, 0.4, 2.7) with velocity (6.7, 0.0, 7.5) after travelling 73.43829 distance over 0.16 secs and colliding with '35'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #36
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.2, 0.4, 3.2) with velocity (5.6, 0.0, 8.3) after travelling 48.71253 distance over 0.12 secs and colliding with '36'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.3, 0.4, 7.1) with velocity (5.6, 0.0, 8.3) after travelling 138.8858 distance over 0.5000001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #34
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.8, 0.4, 2.6) with velocity (-9.7, 0.0, -2.5) after travelling 29.29737 distance over 0.06 secs and colliding with '34'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #29
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.5, 0.4, 3.7) with velocity (-1.0, 0.0, 9.9) after travelling 65.68213 distance over 0.18 secs and colliding with '29'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #28
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-1.3, 0.4, 4.5) with velocity (2.8, 0.0, 9.6) after travelling 120.5897 distance over 0.3 secs and colliding with '28'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (0.3, 0.4, -5.6) with velocity (0.0, 0.0, -15.0) after travelling 384.6649 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #33
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.6, 0.4, 2.6) with velocity (-15.0, 0.0, 0.0) after travelling 274.1814 distance over 0.4800001 secs and colliding with '33'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #75
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-5.7, 0.4, -2.2) with velocity (-10.6, 0.0, -10.6) after travelling 272.7491 distance over 0.42 secs and colliding with '75'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #67
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.6, 0.4, -4.1) with velocity (-10.6, 0.0, -10.6) after travelling 303.1334 distance over 0.54 secs and colliding with '67'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #65
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 1.6) with velocity (-15.0, 0.0, 0.0) after travelling 224.7118 distance over 0.52 secs and colliding with '65'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 1.6) with velocity (-15.0, 0.0, 0.0) after travelling 224.7118 distance over 0.52 secs and colliding with 'Yuanita0'. Total collisions:2. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 1.6) with velocity (-15.0, 0.0, 0.0) after travelling 224.7118 distance over 0.52 secs and colliding with 'Yuanita0'. Total collisions:3. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.3, 0.4, -7.3) with velocity (0.0, 0.0, -15.0) after travelling 351.651 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+player hit crate #110
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.3, 0.4, -8.2) with velocity (0.0, 0.0, -15.0) after travelling 327.2217 distance over 0.56 secs and colliding with '110'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.3, 0.4, -8.8) with velocity (0.0, 0.0, -15.0) after travelling 295.9477 distance over 0.54 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #10
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.9, 0.4, 4.8) with velocity (0.0, 0.0, 15.0) after travelling 245.2619 distance over 0.36 secs and colliding with '10'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #9
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.9, 0.4, 5.4) with velocity (0.0, 0.0, 15.0) after travelling 219.2404 distance over 0.34 secs and colliding with '9'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #60
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.1, 0.4, 0.8) with velocity (-15.0, 0.0, 0.0) after travelling 84.84676 distance over 0.18 secs and colliding with '60'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #61
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.9, 0.4, 0.9) with velocity (-15.0, 0.0, 0.0) after travelling 78.28053 distance over 0.18 secs and colliding with '61'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 0.9) with velocity (-15.0, 0.0, 0.0) after travelling 131.868 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 0.9) with velocity (-15.0, 0.0, 0.0) after travelling 131.868 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:2. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.1) after travelling 176.3787 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.2, 0.0, -2.5) after travelling 197.4329 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.3) after travelling 197.5891 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.2, 0.0, -2.6) after travelling 197.4042 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.4) after travelling 197.5929 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.9) with velocity (12.3, 0.0, -2.2) after travelling 197.5205 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.1) after travelling 176.3744 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.3) after travelling 176.4378 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 0.9) with velocity (12.4, 0.0, -1.7) after travelling 197.5872 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.2) after travelling 176.389 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.4) after travelling 176.4812 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.9) with velocity (12.3, 0.0, -2.0) after travelling 197.5616 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.1) after travelling 176.3711 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.7) after travelling 197.5919 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.3, 0.0, -2.3) after travelling 197.4953 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.5) after travelling 176.5052 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.5) after travelling 197.5952 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.2) after travelling 197.5816 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.3) with velocity (12.5, 0.0, 0.3) after travelling 176.1652 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.3, 0.0, -2.4) after travelling 197.4707 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.7) after travelling 197.5889 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.6) after travelling 176.5281 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 0.9) with velocity (12.4, 0.0, -1.8) after travelling 197.579 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.7) after travelling 197.5887 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.3) with velocity (12.5, 0.0, 0.0) after travelling 176.3313 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.9) with velocity (12.4, 0.0, -1.9) after travelling 197.5716 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.4) after travelling 197.5942 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-3.7, 0.4, -4.8) with velocity (0.0, 0.0, -15.0) after travelling 420.5276 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.1) with velocity (12.5, 0.0, -0.7) after travelling 176.5532 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.2, 0.0, -2.6) after travelling 197.3901 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.2) after travelling 197.5778 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'rocket' died at pos (-3.7, 0.4, -5.8) with velocity (0.0, 0.0, -15.0) after travelling 394.8356 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.3) with velocity (12.5, 0.0, 0.2) after travelling 176.2173 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.6) after travelling 176.531 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.9) with velocity (12.3, 0.0, -2.0) after travelling 197.5527 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 11 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 2.0) with velocity (-15.0, 0.0, 0.0) after travelling 168.5822 distance over 0.42 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 11 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.6, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 136.2712 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.9) with velocity (12.4, 0.0, -1.9) after travelling 197.5676 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.3, 0.0, -2.5) after travelling 197.4476 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.3, 0.0, -2.5) after travelling 197.4435 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 11 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.9, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 131.7281 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.1) with velocity (12.5, 0.0, -0.7) after travelling 176.5543 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.2) with velocity (12.5, 0.0, -0.4) after travelling 176.4547 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.1, 0.4, 1.0) with velocity (12.4, 0.0, -1.4) after travelling 197.5948 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 11 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.9, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 131.8008 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.3) with velocity (12.5, 0.0, 0.0) after travelling 176.3262 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.4, 0.4, 1.3) with velocity (12.5, 0.0, 0.3) after travelling 176.1927 distance over 0.18 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Yuanita0's projectile, 'sgShell' died at pos (-8.2, 0.4, 0.8) with velocity (12.2, 0.0, -2.6) after travelling 197.411 distance over 0.2 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Yuanita0 for 11 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.9, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 131.8008 distance over 0.36 secs and colliding with 'Yuanita0'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-11.2, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 136.4628 distance over 0.38 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-11.2, 0.4, 2.1) with velocity (-15.0, 0.0, 0.0) after travelling 136.4628 distance over 0.38 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (2.8, 0.4, 2.1) with velocity (15.0, 0.0, 0.0) after travelling 446.2549 distance over 0.56 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #74
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-4.7, 0.4, -2.2) with velocity (0.0, 0.0, -15.0) after travelling 202.9704 distance over 0.26 secs and colliding with '74'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-4.7, 0.4, -7.7) with velocity (0.0, 0.0, -15.0) after travelling 353.6276 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #77
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-2.5, 0.4, -2.0) with velocity (10.6, 0.0, -10.6) after travelling 154.5263 distance over 0.18 secs and colliding with '77'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #76
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (-2.5, 0.4, -2.3) with velocity (9.3, 0.0, 3.7) after travelling 69.17149 distance over 0.09999999 secs and colliding with '76'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.4, 0.4, 0.5) with velocity (7.9, 0.0, 6.1) after travelling 285.4369 distance over 0.5000001 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MatchManager.InitPlayer (System.String name, Int32 id) [0x00000] in <filename unknown>:0 
+  at MatchManager.SpawnPlayer (System.String playerName, Int32 playerId) [0x00000] in <filename unknown>:0 
+  at MatchManager+<WaitToSpawn>c__Iterator2.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (2.5, 0.4, -1.6) with velocity (9.7, 0.0, -2.2) after travelling 258.1897 distance over 0.54 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (1.6, 0.4, -4.0) with velocity (7.9, 0.0, -6.1) after travelling 241.74 distance over 0.54 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'parleybead' died at pos (0.1, 0.4, -4.9) with velocity (7.5, 0.0, -6.6) after travelling 275.6786 distance over 0.56 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (2.3, 0.4, -6.9) with velocity (11.3, 0.0, -9.9) after travelling 380.2814 distance over 0.58 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Renata1's projectile, 'rocket' died at pos (-4.0, 0.4, -8.6) with velocity (0.0, 0.0, -15.0) after travelling 220.7147 distance over 0.42 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #115
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-6.9, 0.4, -5.6) with velocity (-10.6, 0.0, -10.6) after travelling 108.6907 distance over 0.26 secs and colliding with '115'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-4.1, 0.4, -8.8) with velocity (0.0, 0.0, -15.0) after travelling 179.0755 distance over 0.36 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #114
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-6.8, 0.4, -6.9) with velocity (-10.6, 0.0, -10.6) after travelling 87.70119 distance over 0.24 secs and colliding with '114'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #112
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.6, 0.4, -7.7) with velocity (-10.6, 0.0, -10.6) after travelling 82.404 distance over 0.26 secs and colliding with '112'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-4.8, 0.4, -8.6) with velocity (0.0, 0.0, -15.0) after travelling 94.14473 distance over 0.2 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-7.2, 0.4, -8.5) with velocity (-10.6, 0.0, -10.6) after travelling 56.15597 distance over 0.2 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player hit crate #113
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-8.0, 0.4, -6.8) with velocity (-15.0, 0.0, 0.0) after travelling 74.81371 distance over 0.14 secs and colliding with '113'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+player Renata1 damaged Hambali2 for 12 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-10.7, 0.4, -6.8) with velocity (-15.0, 0.0, 0.0) after travelling 121.808 distance over 0.26 secs and colliding with 'Hambali2'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-11.2, 0.4, -6.7) with velocity (-15.0, 0.0, 0.0) after travelling 126.774 distance over 0.28 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-11.2, 0.4, -6.7) with velocity (-15.0, 0.0, 0.0) after travelling 126.8019 distance over 0.28 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Renata1's projectile, 'rocket' died at pos (-11.2, 0.4, -6.7) with velocity (-15.0, 0.0, 0.0) after travelling 126.8019 distance over 0.28 secs and colliding with 'Wall'. Total collisions:1. Collider hit? True. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+[SFS - WARN] You are not connected. Request cannot be sent: Sfs2X.Requests.ExtensionRequest
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hambali3's projectile, 'musketbead' died at pos (6.3, 0.4, -7.5) with velocity (-10.0, 0.0, 0.3) after travelling 400.8924 distance over 0.42 secs and colliding with ''. Total collisions:0. Collider hit? False. Raycast hit? False.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

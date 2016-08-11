@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ui2.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:bc8e3ce1e04a5347f5d5d08295aeda55:04a5ff72fe415aa1781b58aa723a267f:39169852179d4862ce17d853fac1f05b$
+#
+
+gender marker;906;479;76;64;0.5131578947368421;0.5
+gender_female;906;431;57;46;0.5;0.5
+gender_male;810;656;57;47;0.5;0.5
+icon_coin;985;973;22;25;0.5;0.5
+icon_crystal;985;1000;29;22;0.5;0.5
+panel_costumeOFF;810;426;94;117;0.5;0.5
+panel_costumeON;883;619;95;118;0.5;0.5
+panel_loginName;533;705;348;32;0.5;0.5
+panel_loginPass;810;545;166;31;0.5;0.5
+panel_mainMenuBtns;2;62;265;149;0.5;0.5
+panel_money;810;578;199;39;0.5;0.5
+panel_personalStatus;267;478;263;84;0.5;0.5
+panel_popup;533;739;450;283;0.5;0.5
+panel_profile;2;564;529;458;0.5;0.5
+panel_record;2;213;263;189;0.5;0.5
+panel_settings;533;404;275;299;0.5;0.5

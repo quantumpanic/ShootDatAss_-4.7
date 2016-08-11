@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ShootDatAss/src"/>
+	<classpathentry kind="lib" path="ShootDatAss_Extension.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/SmartFoxServer_2X/SFS2X/lib/sfs2x.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/SmartFoxServer_2X/SFS2X/lib/sfs2x-core.jar"/>
+	<classpathentry kind="output" path="ShootDatAss/bin"/>
+</classpath>
