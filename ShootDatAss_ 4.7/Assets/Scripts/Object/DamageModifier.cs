@@ -187,7 +187,7 @@ public class DamageModifier : MonoBehaviour {
 	{
 		float newDmg = (_finalDmg * fm) + fa;
         if (set) finalDmg = newDmg;
-        return newDmg;
+        return finalDmg;
 	}
 
 	// Use this for initialization
